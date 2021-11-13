@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ReddyExplains.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning JavaScript and Java
